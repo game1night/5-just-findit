@@ -1,3 +1,9 @@
+.idea
+.image_raw
+.image_tidy
+.image_tidy_by_class
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
